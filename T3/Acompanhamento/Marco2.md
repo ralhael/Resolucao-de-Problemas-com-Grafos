@@ -1,4 +1,4 @@
-#  — Escolha e Justificativa do Algoritmo
+# (Marco 2) — Escolha e Justificativa do Algoritmo
 
 ## Algoritmo Escolhido
 
@@ -140,7 +140,7 @@ Partindo do fluxo total acumulado $F = 0$, executamos buscas em largura (BFS) su
 * **Saída Esperada pelo Problema:** `6`
 * **Status:** **Validado com sucesso.** A soma dos gargalos das rotas simultâneas respeita todas as capacidades das conexões e reproduz exatamente a saída esperada.
 
-# Marco 2 (Tópico 4) — Complexidade de Pior Caso (Tempo e Espaço)
+#  — Complexidade de Pior Caso (Tempo e Espaço)
 
 Considerando $n$ computadores (vértices $V$) e $m$ conexões (arestas $E$), analisamos o comportamento assintótico de pior caso da solução utilizando **Edmonds-Karp** (Ford-Fulkerson com Busca em Largura).
 
