@@ -1,4 +1,4 @@
-# Marco 1 — Escolha e Justificativa do Algoritmo
+# Marco 2 — Escolha e Justificativa do Algoritmo
 
 ## Algoritmo Escolhido
 
